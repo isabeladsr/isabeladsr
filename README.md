@@ -2,7 +2,7 @@
 
 🎓 Graduanda em **Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB)**.
 
-💻 Tenho interesse em **Desenvolvimento de Software, Inteligência Artificial, Machine Learning e Sistemas Computacionais**.
+💻 Tenho interesse em **Desenvolvimento de Software, Inteligência Artificial, Visão Computacional e Sistemas Computacionais**.
 
 🧠 Atualmente desenvolvo projetos acadêmicos envolvendo visão computacional, redes de computadores, sistemas digitais, programação e desenvolvimento web.
 
